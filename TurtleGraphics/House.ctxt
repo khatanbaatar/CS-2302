@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=void\ house()
+comment1.params=width\ height
+comment1.target=void\ rectangle(int,\ int)
+comment2.params=length
+comment2.target=void\ equilateral(int)
+comment3.params=length
+comment3.target=void\ window(int)
+numComments=4

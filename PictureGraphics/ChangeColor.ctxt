@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=void\ main()
+comment1.params=source\ startX\ startY\ endX\ endY\ oldColor\ newColor
+comment1.target=void\ changeColor(Picture,\ int,\ int,\ int,\ int,\ Color,\ Color)
+numComments=2

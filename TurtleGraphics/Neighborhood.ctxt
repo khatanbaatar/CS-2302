@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=void\ neighborhood()
+comment1.params=xcor\ ycor\ turtle
+comment1.target=void\ house(int,\ int,\ Turtle)
+comment2.params=width\ height\ turtle
+comment2.target=void\ rectangle(int,\ int,\ Turtle)
+comment3.params=length\ turtle
+comment3.target=void\ equilateral(int,\ Turtle)
+comment4.params=length\ turtle
+comment4.target=void\ window(int,\ Turtle)
+numComments=5

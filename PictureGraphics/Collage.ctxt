@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=void\ main()
+comment1.params=sourcePict\ targetPict\ sStartX\ sStartY\ tStartX\ tStartY
+comment1.target=void\ copyImage(Picture,\ Picture,\ int,\ int,\ int,\ int)
+comment2.params=pict
+comment2.target=void\ removeBlue(Picture)
+comment3.params=pict
+comment3.target=void\ negate(Picture)
+numComments=4

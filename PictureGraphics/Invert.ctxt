@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=void\ main()
+comment1.params=pict
+comment1.target=void\ invert(Picture)
+comment1.text=Method\ to\ invert\ a\ picture\ \n
+numComments=2

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=void\ constellation()
+comment1.params=length
+comment1.target=void\ star(int)
+numComments=2

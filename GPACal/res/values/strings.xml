@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GPACal!</string>
+    <string name="app_name">GPA calculator</string>
+    <string name="Title">Enter Your GPA!</string>
+    
+    
+    <string-array name= "grade_array">
+    <item name = "gA">A</item>
+    <item name = "gB">B</item>
+    <item name = "gC">C</item>
+    <item name = "gD">D</item>
+    <item name = "gF">F</item>
+	</string-array>
+	
+	<string-array name = "credit_array">
+	<item name = "c0">0</item>
+	<item name = "c1">1</item>
+	<item name = "c2">2</item>
+	<item name = "c3">3</item>
+	<item name = "c4">4</item>
+	<item name = "c5">5</item>
+	</string-array>
+	
+</resources>

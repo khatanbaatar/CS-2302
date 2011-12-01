@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=void\ main()
+comment1.params=pict
+comment1.target=void\ grayscaleWithLuminance(Picture)
+numComments=2
